@@ -547,6 +547,8 @@
     <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
     <Compile Include="Assets\OVR\Scripts\Util\OVRWaitCursor.cs" />
     <Compile Include="Assets\script.cs" />
+    <Compile Include="Assets\Scripts\Debugging\roll-a-ball-test\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Debugging\roll-a-ball-test\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\InControl\Readme\CHANGELOG.txt" />
