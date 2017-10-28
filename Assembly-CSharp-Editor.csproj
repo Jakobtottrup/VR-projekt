@@ -108,6 +108,9 @@
      <None Include="Assets\InControl\Readme\CHANGELOG.txt" />
      <None Include="Assets\OVR\Resources\Underlay Impostor.shader" />
      <None Include="Assets\OVR\Plugins\placeholder.txt" />
+ <Reference Include="Facebook.Unity.Settings">
+ <HintPath>D:/git/repositories/VR-projekt/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>

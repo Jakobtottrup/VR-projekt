@@ -18,7 +18,7 @@ c24a21b131bfa67be1162db2cba4b52b UnityEngine.Timeline.dll:UnityEngine.Timeline.T
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:InControl.NativeInputDeviceProfileList
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:InControl.UnityInputDeviceProfileList
 5979728add95abdc642051d92f726e95 Assembly-CSharp.dll:.OVRDebugHeadController
-33db35c283e69569a8d2030c1824cd0b Assembly-CSharp.dll:.PlayerController
+dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.PlayerController
 01edecf13d0a9e872de0d219f8eb3c5c Assembly-CSharp.dll:.OVRManager
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
@@ -137,6 +137,7 @@ ccd25ccca39fd5159c3471f7762e1ced Assembly-CSharp.dll:.OVRMonoscopic
 74a6fefe8bd94289ab461e70916d7ac3 Assembly-CSharp.dll:.OVRGrabbable
 1e042027c649b7b536a46a4e0335362a Assembly-CSharp.dll:.OVRCubemapCapture
 9a93f748b7c6fda90f20cf8d995df907 Assembly-CSharp.dll:.OVRModeParms
+32e8fe00b63ed946490b898f6024a2f2 Facebook.Unity.Settings.dll:Facebook.Unity.Settings.FacebookSettings
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:MultiplayerBasicExample.Player
 7da42ff76b471a89ac72bc31d7c7ad6d Assembly-CSharp.dll:.OVRGearVrControllerTest
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:BindingsExample.BindingsExample
@@ -178,6 +179,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 9ca6ef21de24c28373f4cf2927edf925 Assembly-CSharp.dll:InControl.InControlManager
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:MultiplayerWithBindingsExample.Player
 cbabb88dc4caa978ac32921ce89eb205 Assembly-CSharp.dll:InControl.TouchManager
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.mainControl
-dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.playerControl
-dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.userTrigger

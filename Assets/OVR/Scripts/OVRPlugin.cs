@@ -955,7 +955,7 @@ internal static class OVRPlugin
 					return inputFocus == Bool.True;
 				else
 				{
-					Debug.LogWarning("ovrp_GetAppHasInputFocus return " + result);
+					//Debug.LogWarning("ovrp_GetAppHasInputFocus return " + result);
 					return false;
 				}
 			}
@@ -978,7 +978,7 @@ internal static class OVRPlugin
 					return hasSystemOverlay == Bool.True;
 				else
 				{
-					Debug.LogWarning("ovrp_GetAppHasSystemOverlayPresent return " + result);
+					//Debug.LogWarning("ovrp_GetAppHasSystemOverlayPresent return " + result);
 					return false;
 				}
 			}

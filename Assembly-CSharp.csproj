@@ -507,15 +507,15 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRSceneSampleController.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRWaitCursor.cs" />
+     <Compile Include="Assets\Scripts\Control\leaveControl.cs" />
+     <Compile Include="Assets\Scripts\Control\mainControl.cs" />
+     <Compile Include="Assets\Scripts\Control\playerControl.cs" />
+     <Compile Include="Assets\Scripts\Control\task1Control.cs" />
+     <Compile Include="Assets\Scripts\Control\task2Control.cs" />
+     <Compile Include="Assets\Scripts\Control\task3Control.cs" />
+     <Compile Include="Assets\Scripts\Control\tutorialControl.cs" />
      <Compile Include="Assets\Scripts\Debugging\roll-a-ball-test\CameraController.cs" />
      <Compile Include="Assets\Scripts\Debugging\roll-a-ball-test\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\leaveControl.cs" />
-     <Compile Include="Assets\Scripts\mainControl.cs" />
-     <Compile Include="Assets\Scripts\playerControl.cs" />
-     <Compile Include="Assets\Scripts\task1Control.cs" />
-     <Compile Include="Assets\Scripts\task2Control.cs" />
-     <Compile Include="Assets\Scripts\task3Control.cs" />
-     <Compile Include="Assets\Scripts\tutorialControl.cs" />
      <None Include="Assets\OVR\Resources\OVRMRUnlitTransparent.shader" />
      <None Include="Assets\OVR\Resources\OVRMRChromaKey.cginc" />
      <None Include="Assets\OVR\Editor\AndroidManifest.OVRSubmission.xml" />
@@ -532,6 +532,9 @@
      <None Include="Assets\InControl\Readme\CHANGELOG.txt" />
      <None Include="Assets\OVR\Resources\Underlay Impostor.shader" />
      <None Include="Assets\OVR\Plugins\placeholder.txt" />
+ <Reference Include="Facebook.Unity.Settings">
+ <HintPath>D:/git/repositories/VR-projekt/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
