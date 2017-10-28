@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 86e0cd6644e3381419349f9eb03c84fa
+timeCreated: 1509209070
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cups
+    100004: cups001
+    100006: leg
+    100008: leg 1
+    100010: leg 2
+    100012: leg 3
+    100014: legs
+    100016: main_cup001
+    100018: main_cup002
+    100020: main_cup003
+    100022: main_cup004
+    100024: main_cup006
+    100026: main_cup007
+    100028: main_cup008
+    100030: main_cup011
+    100032: main_cup012
+    100034: main_cup016
+    100036: main_cup017
+    100038: main_cup018
+    100040: main_cup019
+    100042: main_cup020
+    100044: main_cup021
+    100046: main_cup022
+    100048: main_cup023
+    100050: main_cup024
+    100052: main_cup025
+    100054: main_cup026
+    100056: Rectangle001
+    100058: table
+    100060: beer_pong_table
+    400000: //RootNode
+    400002: cups
+    400004: cups001
+    400006: leg
+    400008: leg 1
+    400010: leg 2
+    400012: leg 3
+    400014: legs
+    400016: main_cup001
+    400018: main_cup002
+    400020: main_cup003
+    400022: main_cup004
+    400024: main_cup006
+    400026: main_cup007
+    400028: main_cup008
+    400030: main_cup011
+    400032: main_cup012
+    400034: main_cup016
+    400036: main_cup017
+    400038: main_cup018
+    400040: main_cup019
+    400042: main_cup020
+    400044: main_cup021
+    400046: main_cup022
+    400048: main_cup023
+    400050: main_cup024
+    400052: main_cup025
+    400054: main_cup026
+    400056: Rectangle001
+    400058: table
+    400060: beer_pong_table
+    2300000: leg
+    2300002: leg 1
+    2300004: leg 2
+    2300006: leg 3
+    2300008: main_cup001
+    2300010: main_cup002
+    2300012: main_cup003
+    2300014: main_cup004
+    2300016: main_cup006
+    2300018: main_cup007
+    2300020: main_cup008
+    2300022: main_cup011
+    2300024: main_cup012
+    2300026: main_cup016
+    2300028: main_cup017
+    2300030: main_cup018
+    2300032: main_cup019
+    2300034: main_cup020
+    2300036: main_cup021
+    2300038: main_cup022
+    2300040: main_cup023
+    2300042: main_cup024
+    2300044: main_cup025
+    2300046: main_cup026
+    2300048: Rectangle001
+    3300000: leg
+    3300002: leg 1
+    3300004: leg 2
+    3300006: leg 3
+    3300008: main_cup001
+    3300010: main_cup002
+    3300012: main_cup003
+    3300014: main_cup004
+    3300016: main_cup006
+    3300018: main_cup007
+    3300020: main_cup008
+    3300022: main_cup011
+    3300024: main_cup012
+    3300026: main_cup016
+    3300028: main_cup017
+    3300030: main_cup018
+    3300032: main_cup019
+    3300034: main_cup020
+    3300036: main_cup021
+    3300038: main_cup022
+    3300040: main_cup023
+    3300042: main_cup024
+    3300044: main_cup025
+    3300046: main_cup026
+    3300048: Rectangle001
+    4300000: Rectangle001
+    4300002: leg
+    4300004: leg
+    4300006: leg
+    4300008: leg
+    4300010: main_cup001
+    4300012: main_cup002
+    4300014: main_cup003
+    4300016: main_cup004
+    4300018: main_cup006
+    4300020: main_cup007
+    4300022: main_cup008
+    4300024: main_cup011
+    4300026: main_cup012
+    4300028: main_cup016
+    4300030: main_cup017
+    4300032: main_cup018
+    4300034: main_cup019
+    4300036: main_cup020
+    4300038: main_cup021
+    4300040: main_cup022
+    4300042: main_cup023
+    4300044: main_cup024
+    4300046: main_cup025
+    4300048: main_cup026
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
