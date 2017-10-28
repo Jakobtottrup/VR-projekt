@@ -14373,9 +14373,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce1015d7c15e14b89d0f866a057366, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tutorialInProgress: 0
-  tasksInProgress: 0
-  leaveInProgress: 0
+  drunkness: 0
+  canDoTutorial: 0
+  canDoTasks: 0
+  canDoLeave: 0
   lookingForTask: 1
   tasksFinished: 0
 --- !u!1 &1971728194

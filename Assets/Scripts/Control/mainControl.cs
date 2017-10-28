@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class mainControl : MonoBehaviour
 {
-
     public GameObject playerObject;
     private playerControl player;
 
@@ -39,9 +38,9 @@ public class mainControl : MonoBehaviour
     {
         Debug.Log("Tutorial Start");
         //start 'tutorial' section
-        player.tutorialInProgress = true;
+        player.canDoTutorial = true;
         //wait till player has finished the tutorial
-        while (player.tutorialInProgress)
+        while (player.canDoTutorial)
         {
             yield return null;
         }
@@ -52,7 +51,7 @@ public class mainControl : MonoBehaviour
     {
         Debug.Log("Task Start");
         //start 'task' section
-        player.tasksInProgress = true;
+        player.canDoTasks = true;
         player.tasksFinished = 0;
         //wait till player has finished some tasks
         while (player.tasksFinished < tasksToFinish)
@@ -60,7 +59,7 @@ public class mainControl : MonoBehaviour
             yield return null;
         }
         //stop 'task' section
-        player.tasksInProgress = false;
+        player.canDoTasks = false;
         Debug.Log("Task End");
     }
 
@@ -68,9 +67,9 @@ public class mainControl : MonoBehaviour
     {
         Debug.Log("Leave Start");
         //start 'leave' section
-        player.leaveInProgress = true;
+        player.canDoLeave = true;
         //wait till player has left
-        while (player.leaveInProgress)
+        while (player.canDoLeave)
         {
             yield return null;
         }

@@ -17,9 +17,9 @@ public class leaveControl : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            if (player.leaveInProgress)
+            if (player.canDoLeave)
             {
-                player.leaveInProgress = false;
+                player.canDoLeave = false;
             }
         }
     }

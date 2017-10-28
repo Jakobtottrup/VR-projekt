@@ -510,9 +510,9 @@
      <Compile Include="Assets\Scripts\Control\leaveControl.cs" />
      <Compile Include="Assets\Scripts\Control\mainControl.cs" />
      <Compile Include="Assets\Scripts\Control\playerControl.cs" />
-     <Compile Include="Assets\Scripts\Control\task1Control.cs" />
-     <Compile Include="Assets\Scripts\Control\task2Control.cs" />
-     <Compile Include="Assets\Scripts\Control\task3Control.cs" />
+     <Compile Include="Assets\Scripts\Control\tasks\task1Control.cs" />
+     <Compile Include="Assets\Scripts\Control\tasks\task2Control.cs" />
+     <Compile Include="Assets\Scripts\Control\tasks\task3Control.cs" />
      <Compile Include="Assets\Scripts\Control\tutorialControl.cs" />
      <Compile Include="Assets\Scripts\Debugging\roll-a-ball-test\CameraController.cs" />
      <Compile Include="Assets\Scripts\Debugging\roll-a-ball-test\PlayerController.cs" />

@@ -4,23 +4,34 @@ using UnityEngine;
 
 public class tutorialControl : MonoBehaviour
 {
-
     public GameObject playerObject;
     private playerControl player;
+
+    private bool tutorialInProgress;
 
     void Start()
     {
         player = playerObject.GetComponent<playerControl>();
+        tutorialInProgress = false;
     }
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (player.canDoTutorial && !tutorialInProgress)
         {
-            if (player.tutorialInProgress)
+            if (other.gameObject.CompareTag("Player"))
             {
-                player.tutorialInProgress = false;
+                tutorialInProgress = true;
+                StartCoroutine("BeginTutorial");
             }
         }
+    }
+
+    IEnumerator BeginTutorial()
+    {
+        Debug.Log("Tutorial has begun");
+        yield return new WaitForSeconds(4);
+        Debug.Log("Tutorial has ended");
+        player.canDoTutorial = false;
     }
 }

@@ -4,20 +4,18 @@ using UnityEngine;
 
 public class playerControl : MonoBehaviour
 {
-
-    //public float speed;
-    //private Rigidbody rb;
+    public float drunkness;
 
     //to toggle by controllers
-    public bool tutorialInProgress = false;
-    [HideInInspector] public bool tasksInProgress = false;
-    [HideInInspector] public bool leaveInProgress = false;
+    [HideInInspector] public bool canDoTutorial = false;
+    [HideInInspector] public bool canDoTasks = false;
+    [HideInInspector] public bool canDoLeave = false;
     [HideInInspector] public bool lookingForTask = true;
     [HideInInspector] public int tasksFinished;
 
     void Start()
     {
-        //rb = GetComponent<Rigidbody>();
+        drunkness = 0;
     }
 
     void Update()
@@ -25,13 +23,8 @@ public class playerControl : MonoBehaviour
 
     }
 
-    /*void FixedUpdate()
+    public void AddDrunk(float drink)
     {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
-
-        Vector3 movement = new Vector3(-moveHorizontal, 0.0f, -moveVertical);
-
-        rb.AddForce(movement * speed);
-    }*/
+        drunkness += drink;
+    }
 }
