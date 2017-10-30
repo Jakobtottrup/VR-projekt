@@ -168,6 +168,46 @@ ModelImporter:
     100320: StraightStair001
     100322: StraightStair002
     100324: Line018
+    100326: beer_pong_table
+    100328: cups
+    100330: cups001
+    100332: firstfloor
+    100334: firstfloor_walls_floor
+    100336: firstfloor_walls_inner
+    100338: firstfloor_walls_outer
+    100340: garden
+    100342: groundfloor_ceiling
+    100344: hedge
+    100346: house_set
+    100348: inventory
+    100350: leg
+    100352: leg 1
+    100354: leg 2
+    100356: leg 3
+    100358: legs
+    100360: main_cup001
+    100362: main_cup002
+    100364: main_cup003
+    100366: main_cup004
+    100368: main_cup006
+    100370: main_cup007
+    100372: main_cup008
+    100374: main_cup011
+    100376: main_cup012
+    100378: main_cup016
+    100380: main_cup017
+    100382: main_cup018
+    100384: main_cup019
+    100386: main_cup020
+    100388: main_cup021
+    100390: main_cup022
+    100392: main_cup023
+    100394: main_cup024
+    100396: main_cup025
+    100398: main_cup026
+    100400: porch_roof
+    100402: Rectangle001 1
+    100404: table
     400000: ground_plane
     400002: groundfloor
     400004: groundfloor_floor
@@ -331,6 +371,46 @@ ModelImporter:
     400320: StraightStair001
     400322: StraightStair002
     400324: Line018
+    400326: beer_pong_table
+    400328: cups
+    400330: cups001
+    400332: firstfloor
+    400334: firstfloor_walls_floor
+    400336: firstfloor_walls_inner
+    400338: firstfloor_walls_outer
+    400340: garden
+    400342: groundfloor_ceiling
+    400344: hedge
+    400346: house_set
+    400348: inventory
+    400350: leg
+    400352: leg 1
+    400354: leg 2
+    400356: leg 3
+    400358: legs
+    400360: main_cup001
+    400362: main_cup002
+    400364: main_cup003
+    400366: main_cup004
+    400368: main_cup006
+    400370: main_cup007
+    400372: main_cup008
+    400374: main_cup011
+    400376: main_cup012
+    400378: main_cup016
+    400380: main_cup017
+    400382: main_cup018
+    400384: main_cup019
+    400386: main_cup020
+    400388: main_cup021
+    400390: main_cup022
+    400392: main_cup023
+    400394: main_cup024
+    400396: main_cup025
+    400398: main_cup026
+    400400: porch_roof
+    400402: Rectangle001 1
+    400404: table
     2300000: ground_plane
     2300002: groundfloor_floor
     2300004: groundfloor_walls_inner
@@ -485,6 +565,37 @@ ModelImporter:
     2300302: StraightStair001
     2300304: StraightStair002
     2300306: Line018
+    2300308: firstfloor_walls_floor
+    2300310: firstfloor_walls_inner
+    2300312: firstfloor_walls_outer
+    2300314: groundfloor_ceiling
+    2300316: hedge
+    2300318: leg
+    2300320: leg 1
+    2300322: leg 2
+    2300324: leg 3
+    2300326: main_cup001
+    2300328: main_cup002
+    2300330: main_cup003
+    2300332: main_cup004
+    2300334: main_cup006
+    2300336: main_cup007
+    2300338: main_cup008
+    2300340: main_cup011
+    2300342: main_cup012
+    2300344: main_cup016
+    2300346: main_cup017
+    2300348: main_cup018
+    2300350: main_cup019
+    2300352: main_cup020
+    2300354: main_cup021
+    2300356: main_cup022
+    2300358: main_cup023
+    2300360: main_cup024
+    2300362: main_cup025
+    2300364: main_cup026
+    2300366: porch_roof
+    2300368: Rectangle001 1
     3300000: ground_plane
     3300002: groundfloor_floor
     3300004: groundfloor_walls_inner
@@ -639,6 +750,37 @@ ModelImporter:
     3300302: StraightStair001
     3300304: StraightStair002
     3300306: Line018
+    3300308: firstfloor_walls_floor
+    3300310: firstfloor_walls_inner
+    3300312: firstfloor_walls_outer
+    3300314: groundfloor_ceiling
+    3300316: hedge
+    3300318: leg
+    3300320: leg 1
+    3300322: leg 2
+    3300324: leg 3
+    3300326: main_cup001
+    3300328: main_cup002
+    3300330: main_cup003
+    3300332: main_cup004
+    3300334: main_cup006
+    3300336: main_cup007
+    3300338: main_cup008
+    3300340: main_cup011
+    3300342: main_cup012
+    3300344: main_cup016
+    3300346: main_cup017
+    3300348: main_cup018
+    3300350: main_cup019
+    3300352: main_cup020
+    3300354: main_cup021
+    3300356: main_cup022
+    3300358: main_cup023
+    3300360: main_cup024
+    3300362: main_cup025
+    3300364: main_cup026
+    3300366: porch_roof
+    3300368: Rectangle001 1
     4300000: ground_plane
     4300002: groundfloor_walls_outer
     4300004: groundfloor_floor
@@ -793,6 +935,37 @@ ModelImporter:
     4300302: Rectangle010
     4300304: porch_walls
     4300306: Line018
+    4300308: leg
+    4300310: leg
+    4300312: leg
+    4300314: leg
+    4300316: main_cup001
+    4300318: main_cup002
+    4300320: main_cup003
+    4300322: main_cup004
+    4300324: main_cup006
+    4300326: main_cup007
+    4300328: main_cup008
+    4300330: main_cup011
+    4300332: main_cup012
+    4300334: main_cup016
+    4300336: main_cup017
+    4300338: main_cup018
+    4300340: main_cup019
+    4300342: main_cup020
+    4300344: main_cup021
+    4300346: main_cup022
+    4300348: main_cup023
+    4300350: main_cup024
+    4300352: main_cup025
+    4300354: main_cup026
+    4300356: Rectangle001
+    4300358: porch_roof
+    4300360: groundfloor_ceiling
+    4300362: firstfloor_walls_outer
+    4300364: firstfloor_walls_floor
+    4300366: firstfloor_walls_inner
+    4300368: hedge
   materials:
     importMaterials: 1
     materialName: 0
