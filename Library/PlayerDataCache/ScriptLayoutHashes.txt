@@ -123,7 +123,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
-e9606f0846775d74686bb3593f751cd2 Assembly-CSharp.dll:.playerControl
+dd30ab10da7d619e08ca76e779c10007 Assembly-CSharp.dll:.playerControl
 201a74c04db670228d716f90f7c8c198 Assembly-CSharp.dll:.OVROverlay
 b46315cf154f35af7abb492b34ffc43e Assembly-CSharp.dll:InControl.TouchSwipeControl
 a97206b1f732dc0aa9b23a14352f4399 Assembly-CSharp.dll:.OVRPlatformMenu
